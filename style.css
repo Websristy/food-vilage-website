@@ -1,14 +1,16 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0 auto
 }
 .orange-color{
     color: orange;
 }
 p{
-    font-size:x-large;
+    font-size: 15px;
     color: #828282;
     font-family: 'Montserrat', sans-serif;
-   
+    padding-bottom: 30px;
+    line-height: 1.9;
 }
 
 h1{
@@ -22,12 +24,12 @@ h2{
 }
 .button-link{
     font-size: 15px;
-   text-decoration: none;
-    background-image: linear-gradient(orange,red);
-    border-radius: 15px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    border-radius: 30px;
     color: white;
     box-shadow: 2px 3px 5px #4b4949;
-    padding: 8px 15px;
+    padding: 10px 20px;
 }
 
 .container{
@@ -40,16 +42,13 @@ h2{
 
 
 .half-width{
-    width: 50%;
     padding-left: 5%;
-    padding-right: 5%;
+    line-height: 25px;
     padding-top: 60px;
 }
 
 .half-width img{
-    margin: 20px;
-   padding: 10px ;
-    width:50%;
+    margin: -4px;
 }
 
 
